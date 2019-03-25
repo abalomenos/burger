@@ -1,0 +1,15 @@
+
+{{#if devoured}}
+    <div class="col-md-12">
+        <p>{{id}}. {{burger_name}}</p>
+    </div>
+{{/if}}
+
+{{#unless devoured}}
+    <div class="col-6">
+        <p>{{id}}. {{burger_name}}</p>
+    </div>
+    <div class="col-6">
+        <button class="devour" data-id="{{id}}" data-devoured="TRUE">Devour it!</button>
+    </div>
+{{/unless}}
