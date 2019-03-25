@@ -1,4 +1,4 @@
-# burger
+# Eat Da Burger!
 Eat Da Burger! is a Restaurant App that lets users place an order for a burger. Once an order is put in, the burger becomes available. Users are then given the option to eat a burger from the available burgers. This App is a demonstration of a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM.
 
 ## Technologies
