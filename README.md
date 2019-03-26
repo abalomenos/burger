@@ -19,4 +19,4 @@ express, express-handlebars, mysql, dotenv
 
 
 ## Demo
-The Web App is hosted on Heroku. Link: [https://eatdaburger-abalomenos.herokuapp.com/](https://eatdaburger-abalomenos.herokuapp.com/).
+The Web App is hosted on Heroku. Link: [https://burger-abalomenos.herokuapp.com/](https://burger-abalomenos.herokuapp.com/).
